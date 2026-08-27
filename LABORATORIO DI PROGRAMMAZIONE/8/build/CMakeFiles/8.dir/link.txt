@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -dynamiclib -Wl,-headerpad_max_install_names -o lib8.dylib -install_name /Users/sergio/Desktop/8/build/lib8.dylib CMakeFiles/8.dir/src/RightHandRuleRobot.cpp.o CMakeFiles/8.dir/src/Maze.cpp.o CMakeFiles/8.dir/src/RandomRobot.cpp.o
